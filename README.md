@@ -5,6 +5,32 @@
 > Personal project, built end to end: Android app, backend and public website.
 > Currently in closed testing on Google Play. The source code is private; this repository shows what the app does and how it is built.
 
+### Progression
+
+<p align="center">
+  <img src="screenshots/01-techniques.jpg" width="190" alt="Technique catalogue by rank">
+  <img src="screenshots/02-technique-detail.jpg" width="190" alt="Technique detail with video tutorial">
+  <img src="screenshots/03-challenges.jpg" width="190" alt="Daily and weekly challenges">
+  <img src="screenshots/04-shop.jpg" width="190" alt="Daily shop">
+</p>
+
+### Battles
+
+<p align="center">
+  <img src="screenshots/05-prediction.jpg" width="220" alt="Audience prediction before the battle">
+  <img src="screenshots/06-judge-scoreboard.jpg" width="220" alt="Judge scoreboard during a round">
+  <img src="screenshots/07-battle-results.jpg" width="220" alt="Battle results and tournament bracket">
+</p>
+
+<p align="center">
+  <img src="screenshots/08-stands-landscape.jpg" width="680" alt="Audience view in landscape during a live battle">
+</p>
+
+<p align="center">
+  <img src="screenshots/09-verdict.jpg" width="400" alt="Battle verdict">
+  <img src="screenshots/10-round-scores.jpg" width="400" alt="Average jury scores per round">
+</p>
+
 ## What it does
 
 **Battles.** Two sides face off one on one, 2 vs 2 or 4 vs 4, best of five rounds. The organizer sets up the teams, judges, visibility and time per turn, and invites people by their bib number or a shareable link.

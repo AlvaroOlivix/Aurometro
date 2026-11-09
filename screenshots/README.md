@@ -2,11 +2,13 @@
 
 | File | Screen |
 | --- | --- |
-| `01-techniques.png` | Home: technique list with rank progress |
-| `02-technique-detail.png` | Technique detail with video tutorial |
-| `03-new-battle.png` | New battle setup |
-| `04-judge-scoreboard.png` | Judge scoreboard during a round |
-| `05-stands-landscape.png` | Audience view in landscape |
-| `06-verdict.png` | Battle verdict |
-| `07-shop.png` | Shop |
-| `08-profile.png` | Player profile |
+| `01-techniques.jpg` | Home: technique catalogue by rank, with a native ad |
+| `02-technique-detail.jpg` | Technique detail with video tutorial and playback speed |
+| `03-challenges.jpg` | Daily and weekly challenges |
+| `04-shop.jpg` | Daily shop with discounted techniques |
+| `05-prediction.jpg` | Audience prediction: pick a side and stake aura |
+| `06-judge-scoreboard.jpg` | Judge scoreboard during a round |
+| `07-battle-results.jpg` | Battle results and tournament bracket |
+| `08-stands-landscape.jpg` | Audience view in landscape during a live battle |
+| `09-verdict.jpg` | Battle verdict with the aura won |
+| `10-round-scores.jpg` | Average jury scores per round |
