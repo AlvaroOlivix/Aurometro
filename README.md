@@ -2,7 +2,6 @@
 
 **The official aura scoreboard.** An Android app for running dance battles, trends and emotes, scoring them with a live jury and following them from the stands with predictions and signs.
 
-> Personal project, built end to end: Android app, backend and public website.
 > Currently in closed testing on Google Play. The source code is private; this repository shows what the app does and how it is built.
 
 > [!NOTE]
