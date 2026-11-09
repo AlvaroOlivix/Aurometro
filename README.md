@@ -5,6 +5,9 @@
 > Personal project, built end to end: Android app, backend and public website.
 > Currently in closed testing on Google Play. The source code is private; this repository shows what the app does and how it is built.
 
+> [!NOTE]
+> These screenshots are from **beta 1.0.0**, still under construction. Design and features may change before release, and ads shown are test ads.
+
 ### Progression
 
 <p align="center">
